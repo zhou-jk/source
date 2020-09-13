@@ -42,11 +42,11 @@ oxo
 #### 样例解释 1
 对于样例 $1$，游戏的初始状态如下图所示（用 ◯ 表示有棋子放置）：
 
-![](/source/loj/2731/img/aHR0cDovL2ltYWdlcy5jbmJsb2dzLmNvbS9jbmJsb2dzX2NvbS9lcnJvLzEyNjk5NjAvb19USU0lZTUlOWIlYmUlZTclODklODcyMDE4MDgwNDE0MDIyNy5wbmc=.png)
+![](http://images.cnblogs.com/cnblogs_com/erro/1269960/o_TIM%e5%9b%be%e7%89%8720180804140227.png)
 
 以下是所有可以从初始状态达到最终状态的方案（序号为放棋子的顺序）：
 
-![](/source/loj/2731/img/aHR0cDovL2ltYWdlcy5jbmJsb2dzLmNvbS9jbmJsb2dzX2NvbS9lcnJvLzEyNjk5NjAvb19USU0lZTUlOWIlYmUlZTclODklODcyMDE4MDgwNDE0MDI1My5wbmc=.png)
+![](http://images.cnblogs.com/cnblogs_com/erro/1269960/o_TIM%e5%9b%be%e7%89%8720180804140253.png)
 
 一共有 $14$ 种方案，因此输出 $14$。
 
