@@ -38,7 +38,7 @@
 <p>在样例1中，左下角为$(1,4)$，右上角为$(2,5)$的子矩形形成了一个星座。这也是唯一的星座。</p>
 <p>如果JOI-kun将第三个黄色像素涂黑，此时不自然度为$2$，同时为所有合法方案的最小值。</p>
 <p>下图为样例1的解释：</p>
-<p><img class="img-responsive center-block" src="//img.uoj.ac/problem/507/xingzuo3.png" alt="样例一示意图"/></p>
+<p><img class="img-responsive center-block" src="/source/uoj/507/img/aHR0cHM6Ly9pbWcudW9qLmFjL3Byb2JsZW0vNTA3L3hpbmd6dW8zLnBuZw==.png" alt="样例一示意图"/></p>
 
 # 样例二
 

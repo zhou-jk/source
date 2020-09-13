@@ -69,5 +69,5 @@
 <p>$C$：树上每个结点的双亲结点编号小于它本身，$n=q$ 且第 $i$ 次操作为将 $i$ 号点加入 $S$。</p>
 <p><strong>时间限制:</strong> $5\texttt{s}$</p>
 <p><strong>空间限制:</strong> $512\texttt{MB}$</p>
-<p><a href="http://uoj.ac/download.php?type=problem&amp;id=545">附加文件</a>。</p>
+<p><a href="http:https://uoj.ac/download.php?type=problem&amp;id=545">附加文件</a>。</p>
 <p>考虑到评测机性能差异，时间限制放宽一秒。<strong>求不虐萌萌哒评测机。</strong></p>

@@ -18,7 +18,7 @@
 <li>$P_1 &lt; P_2 \leq G_2 &lt; G_1$</li>
 </ul></li>
 </ol><p>下图是一个 “<samp>N</samp>”，“<samp>O</samp>”，“<samp>I</samp>” 的例子。</p>
-<p><img src="//img.uoj.ac/problem/125/a.png" alt="NOI的例子" class="img-responsive center-block"/></p>
+<p><img src="/source/uoj/125/img/aHR0cHM6Ly9pbWcudW9qLmFjL3Byb2JsZW0vMTI1L2EucG5n.png" alt="NOI的例子" class="img-responsive center-block"/></p>
 <p>另外，所有画的图形均不允许超过纸张的边界。现在小 E 想要知道，他能画出的最大幸运度是多少。</p>
 
 # 输入格式

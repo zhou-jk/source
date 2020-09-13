@@ -49,4 +49,4 @@ CAT</code></pre>
 # 题解
 
 
-<p><a href="https://matthew99.blog.uoj.ac/blog/5352">https://matthew99.blog.uoj.ac/blog/5352</a></p>
+<p><a href="https:https://matthew99.blog.uoj.ac/blog/5352">https:https://matthew99.blog.uoj.ac/blog/5352</a></p>

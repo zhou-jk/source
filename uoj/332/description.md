@@ -49,7 +49,7 @@ Yes
 <p>第一组数据中，第一个空洞在 $(0,0,0)$ 与下表面相切，第二个空洞在 $(0,0,4)$ 与上表面相切，两个空洞在 $(0,0,2)$ 相切。输出 <samp>Yes</samp>。</p>
 <p>第二组数据中，两个空洞既不相交也不相切，输出 <samp>No</samp>。</p>
 <p>第三组数据中，两个空洞相交，且与上下表面相切或相交，输出 <samp>Yes</samp>。</p>
-<p><img class="img-responsive center-block" src="//img.uoj.ac/problem/332/332.webp" alt="剖面图"/></p>
+<p><img class="img-responsive center-block" src="/source/uoj/332/img/aHR0cHM6Ly9pbWcudW9qLmFjL3Byb2JsZW0vMzMyLzMzMi53ZWJw.webp" alt="剖面图"/></p>
 
 # 样例二
 

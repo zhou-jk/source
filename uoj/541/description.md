@@ -56,4 +56,4 @@
 
 <p><strong>时间限制:</strong> $1\texttt{s}$</p>
 <p><strong>空间限制:</strong> $512\texttt{MB}$</p>
-<p><a href="http://uoj.ac/download.php?type=problem&amp;id=541">附加文件</a></p>
+<p><a href="http:https://uoj.ac/download.php?type=problem&amp;id=541">附加文件</a></p>
