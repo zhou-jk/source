@@ -7,7 +7,7 @@
 
 
 <p>在这儿，我们补充介绍一下峰哥的属性以及酒馆战棋的战斗流程。峰哥的卡牌如下图所示，在本题中，血量、攻击力、费用都没有意义，你只需要留意峰哥的特殊属性。</p>
-<p><img class="img-responsive center-block" src="//img.uoj.ac/problem/522/yuren.jpg" alt="fgnb"/></p>
+<p><img class="img-responsive center-block" src="/source/uoj/522/img/aHR0cHM6Ly9pbWcudW9qLmFjL3Byb2JsZW0vNTIyL3l1cmVuLmpwZw==.jpg" alt="fgnb"/></p>
 <p>酒馆战棋的战斗流程为：</p>
 <ol><li>战斗开始前，双方的随从按照从左到右的顺序被标上了序号。如果有 $k \in \{n,m\}$ 个随从，那么第一个随从的编号为 $1$，最后一个随从的编号为 $k$。其中编号为 $i+1$ 的随从在 $i$ 之后，编号为 $1$ 的随从在 $k$ 之后。</li>
 <li>双方轮流行动，随从多的一方先手，如果双方随从数相同，则等概率随机一方开始攻击。</li>
@@ -15,7 +15,7 @@
 <li>攻击的随从等概率随机挑选一个还存活的敌方随从攻击。攻击结果：无论是攻击的随从还是被攻击的随从，如果身上有圣盾，则圣盾失去；如果没有圣盾，则随从死亡。</li>
 <li>峰哥的效果触发：对于每一个当前没有圣盾的峰哥，如果有一个和它同一方的其他随从（不包括自己）在刚才的攻击中失去了圣盾，则它获得圣盾。</li>
 <li>如果存在一方没有任何随从存活，游戏结束。否则进入对方回合，回到步骤 $3$。</li>
-</ol><p>如果你对战斗流程依然不了解，你可以看<a href="https://www.bilibili.com/video/BV1ME411W71f/?spm_id_from=333.788.videocard.1">这个视频</a>。 该视频从 0:55 开始就对应本题 $n=m=6$ 的情况。</p>
+</ol><p>如果你对战斗流程依然不了解，你可以看<a href="https:https://www.bilibili.com/video/BV1ME411W71f/?spm_id_from=333.788.videocard.1">这个视频</a>。 该视频从 0:55 开始就对应本题 $n=m=6$ 的情况。</p>
 
 # 输入格式
 

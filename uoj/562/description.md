@@ -30,7 +30,7 @@
 <p><strong>定义：</strong>称一棵树 $T$ <strong>单步替换</strong>成为 $T&#39;$，如果将 $T$ 的某一<strong>叶子结点</strong>替换为另一棵树 $T&#39;&#39;$ 得到的树与 $T&#39;$ 同构，记做 $T \to T&#39;$；称一棵树 $T$ <strong>替换</strong>成为 $T&#39;$，记做 $T \to^{\star} T&#39;$，如果存在自然数 $n \ge 1$ 和树 $T_1, T_2, \dots, T_n$，使得 $T \equiv T_1 \to T_2 \to \cdots T_n \equiv T&#39;$。</p>
 </blockquote>
 <p><strong>X2：</strong>我来想想……所谓替换，就是删掉某个叶子结点并在对应的位置放入另一棵树，就像那个叶子结点“长出了”一个更大的子树一样；一棵树替换成为另一棵树，说明它可以经由<strong>零次、一次或多次</strong>单步替换得到那棵树。哦……我明白了！举例来说，任何一棵树都可以替换成它本身，换言之对于树 $T$，都有 $T \to^{\star} T$。下面这个图片可以帮助理解单步替换和替换的含义。</p>
-<p><img class="img-responsive center-block" src="//img.uoj.ac/problem/562/surreal.png" style="width:400px;" alt="示意图"/></p>
+<p><img class="img-responsive center-block" src="/source/uoj/562/img/aHR0cHM6Ly9pbWcudW9qLmFjL3Byb2JsZW0vNTYyL3N1cnJlYWwucG5n.png" style="width:400px;" alt="示意图"/></p>
 <p><strong>X1：</strong>你说得对。特别地，任何一棵树都可以替换得到无穷多棵不同的树，并且仅有一个结点构成的树可以替换得到任意其他的树。书上也有定义这样的东西。</p>
 <blockquote>
 <p><strong>定义：</strong>对于一棵树 $T$，定义 $\mathrm{grow}(T)$ 表示 $T$ 所能替换构成的树的集合，即 $\mathrm{grow}(T) = \{ T&#39; \mid T \to^{\star} T&#39;\}$。更近一步，如果 $\mathscr{T} = \{T_1, T_2, \dots, T_n\}$ 是一个树的有限集合，定义 $\mathrm{grow}(\mathscr{T})$ 为所有 $\mathrm{grow}(T_i)$ 的并集，其中 $i = 1, 2, \dots, n$。即
@@ -103,7 +103,7 @@ $$</p>
 
 <h4>explanation</h4>
 <p>这一样例仅包含一组测试数据，其中树的集合 $\mathscr{T}$ 包含三棵树，如下图所示。容易发现，仅有单个结点构成的树不在 $\mathrm{grow}(\mathscr{T})$ 中，其包含了几乎所有树，因而是几乎完备的。</p>
-<p><img class="img-responsive center-block" src="//img.uoj.ac/problem/562/surreal2.png" style="width:350px;" alt="样例解释"/></p>
+<p><img class="img-responsive center-block" src="/source/uoj/562/img/aHR0cHM6Ly9pbWcudW9qLmFjL3Byb2JsZW0vNTYyL3N1cnJlYWwyLnBuZw==.png" style="width:350px;" alt="样例解释"/></p>
 
 # 样例三
 
